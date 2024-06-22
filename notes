@@ -1,0 +1,2 @@
+go mod init github.com/tt5/l-go-distrfilestorage
+make
